@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello Boi
 
+=======
+Hello GitHub
+>>>>>>> 380207364530178fd880fd4c583c86532c296aa3
